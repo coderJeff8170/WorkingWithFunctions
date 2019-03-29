@@ -1,0 +1,10 @@
+if you accidentall create a repo on Github without a readme file and have trouble pulling
+create a local repo file, git add readme.txt then push.
+Git needs a branch and a branch can only be had with a file
+
+The above can be done just like save, stage, commit, push in the regular manner, so long as 
+you are connected to GIThub
+
+add "function" to the list of data types
+
+OMG USE THE DEBUGGER TO STEP THROUGH THE PROGRAMS!!!!!
